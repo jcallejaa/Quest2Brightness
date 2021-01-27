@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Quest Brightness</string>
+    <string name="screenTitle" translatable="true">- Select BRIGHTNESS level -</string>
+    <string name="permissionAlert" translatable="true">To change Oculus Quest brightness we need you to graint permission to this app to access Quest settings.</string>
+    <string name="permissionButton" translatable="true">Go to permission</string>
+    <string name="open_settings">Settings</string>
+    <string name="author">Created by: Jorge Calleja (@SkyNet801)</string>
+    <string name="button_low">LOW</string>
+    <string name="button_medium">MEDIUM</string>
+    <string name="button_high">HIGH</string>
+</resources>

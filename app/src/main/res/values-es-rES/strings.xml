@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screenTitle">- Seleccionar nivel de BRILLO -</string>
+    <string name="permissionAlert">Para cambiar el brillo de Oculus Quest 2, necesitamos que otorgue permiso a esta aplicación para acceder a la configuración de Quest 2.</string>
+    <string name="permissionButton">Go to permission</string>
+    <string name="open_settings">Ajustes</string>
+    <string name="author">Creador: Jorge Calleja (@SkyNet801)</string>
+    <string name="button_low">BAJO</string>
+    <string name="button_medium">MEDIO</string>
+    <string name="button_high">ALTO</string>
+</resources>
